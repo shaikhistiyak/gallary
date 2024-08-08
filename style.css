@@ -8,6 +8,8 @@
     width: 100vw;
     height: 100vh;
     background-image: linear-gradient(to right,rgb(35, 44, 35),rgb(47, 73, 47));
+    background-color:black;
+    mix-blend-mode:multiply;
     display: flex;
     align-items: center;
     justify-content: space-between;
